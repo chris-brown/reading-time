@@ -1,0 +1,20 @@
+{
+  "name": "reading-time",
+  "version": "1.0.0",
+  "description": "estimates the reading time from a collection of words",
+  "main": "src/reading-time.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "test-cov": "./node_modules/.bin/istanbul check-coverage"
+  },
+  "author": "Chris Brown",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.4.5"
+  }
+}
