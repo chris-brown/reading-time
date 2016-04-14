@@ -1,6 +1,7 @@
 /**
  * Created by Chris on 14/04/2016.
  */
+// https://en.wikipedia.org/wiki/Words_per_minute#Reading_and_comprehension
 
 var ReadingTime = function(text) {
 
